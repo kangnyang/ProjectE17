@@ -45,4 +45,21 @@ header a{
     float: left;
 
 }
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+.kontak-list {
+    float: right;
+}
 
+  footer li {
+    padding-bottom: 20px;
+  }
+  footer {
+    background-color: #165240;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+    width: 95%;
+  }
